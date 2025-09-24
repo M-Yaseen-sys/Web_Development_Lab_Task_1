@@ -5,10 +5,6 @@ The project demonstrates basic web development concepts including navigation men
 
 ---
 
-## 📂 Folder Structure
-
----
-
 ## 🌐 Pages Overview
 
 1. **Home (index.html)**  
